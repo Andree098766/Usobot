@@ -1,0 +1,2 @@
+# Usobot
+A chess bot
